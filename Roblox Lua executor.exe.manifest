@@ -103,14 +103,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Roblox Lua executor.exe" size="969088">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Roblox Lua executor.exe" size="1255808">
       <assemblyIdentity name="Roblox Lua executor" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>PJLlVUedCo4+4tR5VPRxLwcDmZS11HHEMP60kE4heR0=</dsig:DigestValue>
+        <dsig:DigestValue>LGWo/8tV57McSbwpAryTZVt1YK9YJYn64mHyOP9rW1U=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
